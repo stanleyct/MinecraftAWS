@@ -1,0 +1,80 @@
+package net.minecraft.server;
+
+import javax.annotation.Nullable;
+
+public class InventoryCraftResult implements IInventory {
+
+    private final ItemStack[] items = new ItemStack[1];
+
+    public InventoryCraftResult() {}
+
+    public int getSize() {
+        return 1;
+    }
+
+    @Nullable
+    public ItemStack getItem(int i) {
+        return this.items[0];
+    }
+
+    public String getName() {
+        return "Result";
+    }
+
+    public boolean hasCustomName() {
+        return false;
+    }
+
+    public IChatBaseComponent getScoreboardDisplayName() {
+        return (IChatBaseComponent) (this.hasCustomName() ? new ChatComponentText(this.getName()) : new ChatMessage(this.getName(), new Object[0]));
+    }
+
+    @Nullable
+    public ItemStack splitStack(int i, int j) {
+        return ContainerUtil.a(this.items, 0);
+    }
+
+    @Nullable
+    public ItemStack splitWithoutUpdate(int i) {
+        return ContainerUtil.a(this.items, 0);
+    }
+
+    public void setItem(int i, @Nullable ItemStack itemstack) {
+        this.items[0] = itemstack;
+    }
+
+    public int getMaxStackSize() {
+        return 64;
+    }
+
+    public void update() {}
+
+    public boolean a(EntityHuman entityhuman) {
+        return true;
+    }
+
+    public void startOpen(EntityHuman entityhuman) {}
+
+    public void closeContainer(EntityHuman entityhuman) {}
+
+    public boolean b(int i, ItemStack itemstack) {
+        return true;
+    }
+
+    public int getProperty(int i) {
+        return 0;
+    }
+
+    public void setProperty(int i, int j) {}
+
+    public int g() {
+        return 0;
+    }
+
+    public void l() {
+        for (int i = 0; i < this.items.length; ++i) {
+            this.items[i] = null;
+        }
+
+    }
+}

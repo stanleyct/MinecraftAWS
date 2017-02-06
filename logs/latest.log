@@ -1,0 +1,158 @@
+[04:24:03] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[04:24:03] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[04:24:03] [Server thread/INFO]: Loading properties
+[04:24:03] [Server thread/INFO]: Default game type: SURVIVAL
+[04:24:03] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-b4417b8-a1d3777 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
+[04:24:03] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:24:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:24:03] [Server thread/INFO]: Debug logging is disabled
+[04:24:03] [Server thread/INFO]: Generating keypair
+[04:24:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:24:04] [Server thread/INFO]: Using epoll channel type
+[04:24:04] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[04:24:04] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b467
+[04:24:04] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.0.1-b467
+[04:24:04] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.0.1-b467
+[04:24:04] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.0.1-b467
+[04:24:04] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.0.1-b467
+[04:24:04] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP v2.0.1-b467
+[04:24:04] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.0.1-b467
+[04:24:04] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[04:24:04] [Server thread/INFO]: Preparing level "world"
+[04:24:04] [Server thread/INFO]: -------- World Settings For [world] --------
+[04:24:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Cane Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Melon Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Vine Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[04:24:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[04:24:04] [Server thread/INFO]: Mob Spawn Range: 4
+[04:24:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[04:24:04] [Server thread/INFO]: Random Lighting Updates: false
+[04:24:04] [Server thread/INFO]: Structure Info Saving: true
+[04:24:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617Monument: 10387313 Slime: 987234911
+[04:24:04] [Server thread/INFO]: Max TNT Explosions: 100
+[04:24:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[04:24:04] [Server thread/INFO]: Item Despawn Rate: 6000
+[04:24:04] [Server thread/INFO]: Item Merge Radius: 2.5
+[04:24:04] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[04:24:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[04:24:04] [Server thread/INFO]: View Distance: 10
+[04:24:04] [Server thread/INFO]: Experience Merge Radius: 3.0
+[04:24:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[04:24:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[04:24:04] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[04:24:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Cane Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Melon Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Vine Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[04:24:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[04:24:04] [Server thread/INFO]: Mob Spawn Range: 4
+[04:24:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[04:24:04] [Server thread/INFO]: Random Lighting Updates: false
+[04:24:04] [Server thread/INFO]: Structure Info Saving: true
+[04:24:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617Monument: 10387313 Slime: 987234911
+[04:24:04] [Server thread/INFO]: Max TNT Explosions: 100
+[04:24:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[04:24:04] [Server thread/INFO]: Item Despawn Rate: 6000
+[04:24:04] [Server thread/INFO]: Item Merge Radius: 2.5
+[04:24:04] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[04:24:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[04:24:04] [Server thread/INFO]: View Distance: 10
+[04:24:04] [Server thread/INFO]: Experience Merge Radius: 3.0
+[04:24:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[04:24:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[04:24:04] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[04:24:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Cane Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Melon Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Vine Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[04:24:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[04:24:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[04:24:04] [Server thread/INFO]: Mob Spawn Range: 4
+[04:24:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[04:24:04] [Server thread/INFO]: Random Lighting Updates: false
+[04:24:04] [Server thread/INFO]: Structure Info Saving: true
+[04:24:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617Monument: 10387313 Slime: 987234911
+[04:24:04] [Server thread/INFO]: Max TNT Explosions: 100
+[04:24:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[04:24:04] [Server thread/INFO]: Item Despawn Rate: 6000
+[04:24:04] [Server thread/INFO]: Item Merge Radius: 2.5
+[04:24:04] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[04:24:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[04:24:04] [Server thread/INFO]: View Distance: 10
+[04:24:04] [Server thread/INFO]: Experience Merge Radius: 3.0
+[04:24:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[04:24:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[04:24:05] [Server thread/INFO]: Preparing start region for level 0 (Seed: 4074234544149555307)
+[04:24:06] [Server thread/INFO]: Preparing spawn area: 0%
+[04:24:07] [Server thread/INFO]: Preparing spawn area: 43%
+[04:24:08] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4074234544149555307)
+[04:24:09] [Server thread/INFO]: Preparing start region for level 2 (Seed: 4074234544149555307)
+[04:24:09] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b467
+[04:24:09] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[04:24:09] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[04:24:09] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[04:24:09] [Server thread/INFO]: Using locale en_US
+[04:24:09] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global PluginMetrics config.
+[04:24:09] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[04:24:09] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[04:24:09] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.0.1-b467
+[04:24:09] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.0.1-b467
+[04:24:09] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+[04:24:09] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.0.1-b467
+[04:24:09] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.0.1-b467
+[04:24:09] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.0.1-b467
+[04:24:09] [Server thread/WARN]: config broken for xmpp
+[04:24:09] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.0.1-b467
+[04:24:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:24:09] [Server thread/INFO]: Done (5.574s)! For help, type "help" or "?"
+[04:24:19] [User Authenticator #1/INFO]: UUID of player Colbuster is ac5d9115-6f57-46d8-b351-0141f59086bc
+[04:24:20] [Server thread/INFO]: Colbuster[/174.109.104.139:53592] logged in with entity id 190 at ([world]212.7873739494176, 68.24947197770308, 237.13184386759633)
+[04:24:20] [Server thread/WARN]: [Essentials] Task #12 for Essentials v2.0.1-b467 generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:148) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:109) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$1.run(EssentialsXMPPPlayerListener.java:31) ~[?:?]
+	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.11.2.jar:git-Spigot-b4417b8-a1d3777]
+	at org.bukkit.craftbukkit.v1_11_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.11.2.jar:git-Spigot-b4417b8-a1d3777]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:738) [spigot-1.11.2.jar:git-Spigot-b4417b8-a1d3777]
+	at net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:399) [spigot-1.11.2.jar:git-Spigot-b4417b8-a1d3777]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:678) [spigot-1.11.2.jar:git-Spigot-b4417b8-a1d3777]
+	at net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:576) [spigot-1.11.2.jar:git-Spigot-b4417b8-a1d3777]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[04:46:30] [Server thread/INFO]: Colbuster issued server command: /home
+[04:57:57] [Server thread/INFO]: Colbuster issued server command: /home
+[05:03:16] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_121]
+	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_121]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246) ~[?:1.8.0_121]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:265) ~[?:1.8.0_121]
+	at org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169) ~[spigot-1.11.2.jar:git-Spigot-b4417b8-a1d3777]
+	at org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137) ~[spigot-1.11.2.jar:git-Spigot-b4417b8-a1d3777]
+	at org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246) ~[spigot-1.11.2.jar:git-Spigot-b4417b8-a1d3777]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[spigot-1.11.2.jar:git-Spigot-b4417b8-a1d3777]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[spigot-1.11.2.jar:git-Spigot-b4417b8-a1d3777]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[spigot-1.11.2.jar:git-Spigot-b4417b8-a1d3777]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2349) ~[spigot-1.11.2.jar:git-Spigot-b4417b8-a1d3777]
+	at net.minecraft.server.v1_11_R1.DedicatedServer$2.run(DedicatedServer.java:84) [spigot-1.11.2.jar:git-Spigot-b4417b8-a1d3777]
